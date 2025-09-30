@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ashu — aka codewithashu
+# 👋 Hi, I'm Ashu — aka codewithashu62
 
 > Java Developer. Problem Solver. Tech Explorer.  
 > I don’t just write code — I build logic that scales.
@@ -28,9 +28,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithashu&show_icons=true&theme=radical" alt="codewithashu GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithashu62&show_icons=true&theme=radical" alt="codewithashu62 GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithashu&theme=radical" alt="Streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithashu62&theme=radical" alt="Streak stats" />
 </p>
 
 ---
@@ -40,15 +40,15 @@
 📩 Email: ashish.25005062@kiet.edu  
 💼 LinkedIn: [linkedin.com/in/codedbyashu](https://www.linkedin.com/in/ashish-singh-9a765a381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 🧠 LeetCode: [leetcode.com/codedbyashu](https://leetcode.com/)  
-🌐 Portfolio (coming soon): codewithashu.dev  
+🌐 Portfolio (coming soon): codewithashu62.dev  
 
 ---
 
 > “Clean code is not just written, it is crafted.”  
-> – codewithashu  
+> – codewithashu62  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithashu&label=Profile+Views&color=0e75b6&style=flat" alt="codewithashu" />
+  <img src="https://komarev.com/ghpvc/?username=codewithashu62&label=Profile+Views&color=0e75b6&style=flat" alt="codewithashu" />
 </p>
